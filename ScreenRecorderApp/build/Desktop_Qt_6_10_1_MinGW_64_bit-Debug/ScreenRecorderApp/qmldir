@@ -1,0 +1,6 @@
+module ScreenRecorderApp
+typeinfo appScreenRecorderApp.qmltypes
+prefer :/qt/qml/ScreenRecorderApp/
+Main 254.0 Main.qml
+depends QtQuick
+
